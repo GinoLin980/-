@@ -1,9 +1,9 @@
 https://hsa.ntpc.edu.tw
 ```
-a = float(input("score "))
-b = float(input("score "))
-c = float(input("score "))
-d = float(input("score "))
+a = float(input("一段 "))
+b = float(input("二段 "))
+c = float(input("三段 "))
+d = float(input("平時成績 "))
 e = a*0.2+b*0.2+c*0.3+d*0.3
 if e >= 60 and e < 100:
     print("好了啦你最厲害", e)
