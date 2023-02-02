@@ -1,4 +1,5 @@
-# a = float(input("score "))
+https://hsa.ntpc.edu.tw
+a = float(input("score "))
 b = float(input("score "))
 c = float(input("score "))
 d = float(input("score "))
