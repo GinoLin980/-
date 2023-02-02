@@ -1,5 +1,6 @@
 https://hsa.ntpc.edu.tw
-```a = float(input("score "))
+```
+a = float(input("score "))
 b = float(input("score "))
 c = float(input("score "))
 d = float(input("score "))
@@ -11,5 +12,6 @@ elif e < 60 and e > 40:
 elif e <=40 and e >= 0:
     print("你真他媽可悲", e)
 else:
-    print("可悲就繼續亂打")```
-# 到這個網站複製貼上 https://www.programiz.com/python-programming/online-compiler/
+    print("可悲就繼續亂打")
+```
+# 複製上面的到這個網站複製貼上 https://www.programiz.com/python-programming/online-compiler/
