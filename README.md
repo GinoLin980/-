@@ -1,5 +1,6 @@
 # [校務行政系統](https://hsa.ntpc.edu.tw)
 ```
+
 while True:
     try:
         a = float(input("一段 "))
