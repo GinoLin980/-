@@ -1,4 +1,4 @@
-[校務行政系統](https://hsa.ntpc.edu.tw)
+# [校務行政系統](https://hsa.ntpc.edu.tw)
 ```
 a = float(input("一段 "))
 b = float(input("二段 "))
