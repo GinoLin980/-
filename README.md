@@ -1,4 +1,4 @@
-https://hsa.ntpc.edu.tw
+[校務行政系統](https://hsa.ntpc.edu.tw)
 ```
 a = float(input("一段 "))
 b = float(input("二段 "))
@@ -14,4 +14,5 @@ elif e <=40 and e >= 0:
 else:
     print("可悲就繼續亂打")
 ```
-# 複製上面的到這個網站複製貼上 https://www.programiz.com/python-programming/online-compiler/
+# 複製上面的到這個網站複製貼上 
+[線上python](https://www.programiz.com/python-programming/online-compiler/)
