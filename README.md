@@ -14,5 +14,4 @@ elif e <=40 and e >= 0:
 else:
     print("可悲就繼續亂打")
 ```
-# 複製上面的到這個網站複製貼上 
-[線上python](https://www.programiz.com/python-programming/online-compiler/)
+# [複製上面的到這個網站複製貼上](https://www.programiz.com/python-programming/online-compiler/)
